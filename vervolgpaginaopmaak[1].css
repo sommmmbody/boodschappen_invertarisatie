@@ -1,0 +1,16 @@
+p{
+	font-size: 30px;
+}
+body{
+	margin: auto;
+	text-align: center;
+	border-width: 1px;
+	border-color: orange;
+	border-style: solid;
+	width: 400px;
+	/*height: 300px;*/
+}
+input{
+	margin-bottom: 15px;
+	margin-top: 10px;
+}

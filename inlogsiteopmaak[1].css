@@ -1,0 +1,74 @@
+.container {display: grid;
+						max-width: 300px;
+						position: relative;
+						margin: auto;
+						grid-template-areas: "head head"
+																	"middle middle"
+																	"footer footer";
+						grid-template-rows: 20%, 60%, 20%;
+						grid-template-colums: 2 fr, 2 fr, 2 fr;	
+						text-align: center;
+						border-width: 2px;
+						border-color: black;
+		}
+			
+.header { 
+		grid-area: head;
+}
+		
+	/*.nav { 
+		grid-area: middle;
+		}
+	*/		
+.footer {
+	grid-area: footer;
+}
+#naam{
+	height: 30px;
+}
+#slot{
+	height: 50px;
+	width: 50px;
+}
+
+table{
+	border: 2px solid orange;
+	grid-area: middle;
+}
+td{
+	width: 100px;
+}
+
+tr{
+	height: 50px;
+}
+
+body{
+	margin-top: 40px;
+	margin: auto;
+}
+#aanmaken{
+margin-right: 5px;
+}
+
+#annuleren{
+margin-left: 5px;
+}
+
+h2{
+	text-align: center;
+}
+#lol{
+	text-align: center;
+}
+h2{
+	font-size: 20px;
+}
+p{
+	background-color: green;
+	color: green;
+}
+#test{
+	color: green;
+	font-size: 5px;
+}
