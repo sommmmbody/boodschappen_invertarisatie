@@ -1,0 +1,1 @@
+hier moet de privacy voorwaarden komen in of een afbeelding of de tekst uitgetypet

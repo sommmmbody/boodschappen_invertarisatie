@@ -1,0 +1,26 @@
+body{
+	margin: auto;
+	align-content: center;
+}
+
+
+h2{
+width: 350px;
+margin: auto;
+margin-top: 20px;
+font-size: 30px;
+}
+
+table{
+	width: 350px;
+	margin: auto;
+	margin-top: 20px;
+
+}
+#knoppen{
+	text-align: center;
+}
+.container{
+	width: 350px;
+	margin: auto
+}
